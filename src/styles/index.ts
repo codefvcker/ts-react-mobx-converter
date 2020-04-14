@@ -28,5 +28,14 @@ export const useStyles = makeStyles((theme: Theme) =>
       height: 20,
       borderRadius: 25,
     },
+    red: {
+      backgroundColor: "#ffdada",
+    },
+    green: {
+      backgroundColor: "#d8ffc4",
+    },
+    rowCurrency: {
+      cursor: "pointer",
+    },
   })
 );
